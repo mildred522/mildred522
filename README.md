@@ -17,8 +17,8 @@ Backend-focused CS student building with Go, C++, and Python, interested in back
 | Project | Stack | What it is |
 | --- | --- | --- |
 | [flash-mall](https://github.com/mildred522/flash-mall) | Go, MySQL, Redis | An e-commerce backend project focused on service design, API development, and backend engineering practice. |
-| [OpenViking](https://github.com/open-viking/OpenViking) | Python, Rust, Go | Open-source contributions to a context infrastructure project for AI agents, with emphasis on memory, resources, and context orchestration. |
-| [semantic-router](https://github.com/aura-ai-labs/semantic-router) | Go, Python | Open-source contributions to an intelligent routing system for Mixture-of-Models scheduling and traffic decision flows. |
+| [OpenViking](https://github.com/volcengine/OpenViking) | Python, Rust, Go | Open-source contributions to a context infrastructure project for AI agents, with emphasis on memory, resources, and context orchestration. |
+| [semantic-router](https://github.com/vllm-project/semantic-router) | Go, Python | Open-source contributions to an intelligent routing system for Mixture-of-Models scheduling and traffic decision flows. |
 
 ## Current Focus
 
