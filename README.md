@@ -4,9 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </p>
 
 ---
@@ -26,12 +24,6 @@ Backend and systems-focused developer interested in storage, concurrency, servic
 - Distributed KV and storage systems
 - Backend engineering and service architecture
 - Open-source contribution and project polish
-
-## Selected Repositories
-
-- [flash-mall](https://github.com/mildred522/flash-mall)
-- [mykv](https://github.com/mildred522/mykv)
-- [postoffice-work](https://github.com/mildred522/postoffice-work)
 
 ## Contact
 
