@@ -32,8 +32,6 @@ Open-source contribution to a system-level intelligent routing project for Mixtu
 ## Selected Repositories
 
 - [flash-mall](https://github.com/mildred522/flash-mall)
-- [mykv](https://github.com/mildred522/mykv)
-- [postoffice-work](https://github.com/mildred522/postoffice-work)
 
 ## Contact
 
