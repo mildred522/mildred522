@@ -1,4 +1,5 @@
 <h1 align="center">Mildred</h1>
+<p align="center">Second-year CS student at Northeastern University</p>
 <p align="center">Backend | Distributed Systems | AI Infra</p>
 
 <p align="center">
@@ -9,15 +10,15 @@
 
 ---
 
-Backend and systems-focused developer interested in storage, concurrency, service architecture, and AI infrastructure.
+Backend and systems-focused developer building with Go, C++, and Python, with interests in storage, concurrency, service architecture, and AI infrastructure.
 
 ## Featured Work
 
 | Project | Stack | What it is |
 | --- | --- | --- |
-| [flash-mall](https://github.com/mildred522/flash-mall) | Go, MySQL, Redis | A backend mall project focused on API design, business logic, and engineering practice. |
-| [OpenViking](https://github.com/open-viking/OpenViking) | Python, Rust, Go | Open-source contribution to an AI Agent context infrastructure project centered on memory, resources, and context management. |
-| [semantic-router](https://github.com/aura-ai-labs/semantic-router) | Go, Python | Open-source contribution to an intelligent routing system for Mixture-of-Models scheduling. |
+| [flash-mall](https://github.com/mildred522/flash-mall) | Go, MySQL, Redis | An e-commerce backend project focused on service design, API development, and backend engineering practice. |
+| [OpenViking](https://github.com/open-viking/OpenViking) | Python, Rust, Go | Open-source contributions to a context infrastructure project for AI agents, with emphasis on memory, resources, and context orchestration. |
+| [semantic-router](https://github.com/aura-ai-labs/semantic-router) | Go, Python | Open-source contributions to an intelligent routing system for Mixture-of-Models scheduling and traffic decision flows. |
 
 ## Current Focus
 
