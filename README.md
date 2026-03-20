@@ -21,7 +21,7 @@ Open-source contribution to a system-level intelligent routing project for Mixtu
 
 ## Tech Stack
 
-`Go` `C++` `Python` `Rust` `Linux` `Git` `MySQL` `Redis`
+`Go` `C++` `Python` 
 
 ## Current Focus
 
