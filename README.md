@@ -1,27 +1,25 @@
-# Hi, I'm Mildred
+<h1 align="center">Mildred</h1>
+<p align="center">Backend | Distributed Systems | AI Infra</p>
 
-Backend and systems-focused developer, interested in distributed systems, storage, concurrency, and AI infrastructure.
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
 
-## What I Work On
+---
 
-- Building backend projects with Go and C++
-- Learning distributed systems and system design
-- Contributing to open-source projects in AI infra and routing systems
+Backend and systems-focused developer interested in storage, concurrency, service architecture, and AI infrastructure.
 
 ## Featured Work
 
-### [flash-mall](https://github.com/mildred522/flash-mall)
-A backend mall project built with Go, focused on service design, API development, and engineering practice.
-
-### [OpenViking](https://github.com/open-viking/OpenViking)
-Open-source contribution to an AI Agent context infrastructure project, centered on memory, resources, and context management.
-
-### [semantic-router](https://github.com/aura-ai-labs/semantic-router)
-Open-source contribution to a system-level intelligent routing project for Mixture-of-Models scheduling.
-
-## Tech Stack
-
-`Go` `C++` `Python` 
+| Project | Stack | What it is |
+| --- | --- | --- |
+| [flash-mall](https://github.com/mildred522/flash-mall) | Go, MySQL, Redis | A backend mall project focused on API design, business logic, and engineering practice. |
+| [OpenViking](https://github.com/open-viking/OpenViking) | Python, Rust, Go | Open-source contribution to an AI Agent context infrastructure project centered on memory, resources, and context management. |
+| [semantic-router](https://github.com/aura-ai-labs/semantic-router) | Go, Python | Open-source contribution to an intelligent routing system for Mixture-of-Models scheduling. |
 
 ## Current Focus
 
@@ -32,6 +30,8 @@ Open-source contribution to a system-level intelligent routing project for Mixtu
 ## Selected Repositories
 
 - [flash-mall](https://github.com/mildred522/flash-mall)
+- [mykv](https://github.com/mildred522/mykv)
+- [postoffice-work](https://github.com/mildred522/postoffice-work)
 
 ## Contact
 
